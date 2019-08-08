@@ -27,3 +27,13 @@ This is a collaborative resource. Please edit the text. To achieve eventual cons
 ## Centralized approaches
 
 [Prosemirror's approach to Collabroative Text Editing](http://marijnhaverbeke.nl/blog/collaborative-editing.html)
+
+## Text editing in the browser
+
+[Online rich-text editor](https://en.wikipedia.org/wiki/Online_rich-text_editor)
+
+### Where to start
+
+[Awesome text editing](https://github.com/dok/awesome-text-editing)
+
+[Awesome WYSIWYG](https://github.com/JefMari/awesome-wysiwyg)
