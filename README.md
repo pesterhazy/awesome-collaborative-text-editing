@@ -12,15 +12,11 @@ This is a collaborative resource. Please edit the text. To achieve eventual cons
 
 ## CRDTs or Conflict-Free Replicated Data Types
 
-### Where to start
-
 [Definition on Wikipedia](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 [Awesome CRDT](https://github.com/alangibson/awesome-crdt)
 
 ## OT or Operational Transformation
-
-### Where to start
 
 [Definition on Wikipedia](https://en.wikipedia.org/wiki/Operational_transformation)
 
@@ -31,8 +27,6 @@ This is a collaborative resource. Please edit the text. To achieve eventual cons
 ## Text editing in the browser
 
 [Online rich-text editor](https://en.wikipedia.org/wiki/Online_rich-text_editor)
-
-### Where to start
 
 [Awesome text editing](https://github.com/dok/awesome-text-editing)
 
