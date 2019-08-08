@@ -12,6 +12,10 @@ This is a collaborative resource. Please edit the text. To achieve eventual cons
 
 Awesome CRDT](https://github.com/alangibson/awesome-crdt)
 
+## OT or Operational Transformation
+
+[Definition on Wikipedia](https://en.wikipedia.org/wiki/Operational_transformation)
+
 ## Centralized approaches
 
 [Prosemirror's approach to Collabroative Text Editing] (http://marijnhaverbeke.nl/blog/collaborative-editing.html)
