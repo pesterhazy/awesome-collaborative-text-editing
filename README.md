@@ -18,4 +18,4 @@ Awesome CRDT](https://github.com/alangibson/awesome-crdt)
 
 ## Centralized approaches
 
-[Prosemirror's approach to Collabroative Text Editing] (http://marijnhaverbeke.nl/blog/collaborative-editing.html)
+[Prosemirror's approach to Collabroative Text Editing](http://marijnhaverbeke.nl/blog/collaborative-editing.html)
